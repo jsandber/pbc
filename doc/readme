@@ -1,0 +1,6 @@
+pbc/nim - the net interest margin project
+pbc/nimmc - the net interest margin monte carlo simulation project
+pbc/nimo - the net ineterest margin optimization project
+pbc/sec - security cashflow models  project, docs, and data
+pbc/market - market and econometric variables project, docs, and data
+pbc/capplan - capital plan execution models project. docs, and data
